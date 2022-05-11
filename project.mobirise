@@ -63,7 +63,7 @@
       "enabled": true
     },
     "favicon": false,
-    "mbrsiteDomain": "a10znxedmr",
+    "mbrsiteDomain": "jp4njgxrmm",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
@@ -80,7 +80,7 @@
         "main": true,
         "title": "Agência Select Marketing",
         "meta_descr": "Quem somos?\nSobre a agência Select Marketing\nCom atuação desde 2018, somos uma agência especializada em comunicação integrada. Não é só estar nas redes ou só contratar uma agência. Acreditamos no poder do marketing, desde que esteja sempre atrelado a muita pesquisa, planejamento estratégico e trabalho.",
-        "header_custom": "",
+        "header_custom": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-HTD8E0TP2Z\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-HTD8E0TP2Z');\n</script>",
         "footer_custom": "",
         "html_before": ""
       },
